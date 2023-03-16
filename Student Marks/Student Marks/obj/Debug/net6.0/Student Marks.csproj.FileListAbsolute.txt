@@ -1,0 +1,15 @@
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.csproj.AssemblyReference.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.AssemblyInfoInputs.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.AssemblyInfo.cs
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.csproj.CoreCompileInputs.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\bin\Debug\net6.0\Student Marks.exe
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\bin\Debug\net6.0\Student Marks.deps.json
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\bin\Debug\net6.0\Student Marks.runtimeconfig.json
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\bin\Debug\net6.0\Student Marks.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\bin\Debug\net6.0\Student Marks.pdb
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\refint\Student Marks.dll
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.pdb
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\Student Marks.genruntimeconfig.cache
+E:\Desktop\Uni work\Sem 2\Application Programming\App03 Student Marks\Student Marks\Student Marks\obj\Debug\net6.0\ref\Student Marks.dll
