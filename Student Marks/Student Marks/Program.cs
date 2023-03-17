@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace GradeCalculator
 {
@@ -49,6 +48,21 @@ namespace GradeCalculator
             Console.WriteLine($"\nMean Mark: {mean}");
             Console.WriteLine($"Minimum Mark: {min}");
             Console.WriteLine($"Maximum Mark: {max}");
+
+            Console.WriteLine("\nGrade Profile:");
+            Console.WriteLine($"A: {CalculateGradePercentage(students, "A")}%");
+            Console.WriteLine($"B: {CalculateGradePercentage(students, "B")}%");
+            Console.WriteLine($"C: {CalculateGradePercentage(students, "C")}%");
+            Console.WriteLine($"D: {CalculateGradePercentage(students, "D")}%");
+            Console.WriteLine($"F: {CalculateGradePercentage(students, "F")}%");
+        }
+
+        static int CalculateGradePercentage(List<Student> students, string grade)
+        {
+            int totalStudents = students.Count();
+            int gradeCount = students.Count(s => s.Grade == grade);
+
+            return (int)((double)gradeCount / totalStudents * 100);
         }
 
         class Student
